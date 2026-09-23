@@ -10,7 +10,7 @@ Run S.COM to load the designer.
 
 Run "ED S.C" to view the source code.
 
-Run HC S.C to build the designer. Currently returning a Bad Data error so I suspect I am missing part of the command line.
+Run HC S.C to build the designer. Note that this compiles fine on an Einstein but not in MAME - I need to change the disc type to allow this.
 
 
 The Hisoft C manual is available here https://www.cpcwiki.eu/imgs/a/a0/Hisoft_C_%28Hisoft%29_Manual.pdf 
