@@ -6,15 +6,27 @@ High level overview:
 
 Written in Hisoft C on an Einstein with a dodgy control key.
 
-Run S.COM to load the designer.
+The Hisoft C manual is available here https://www.cpcwiki.eu/imgs/a/a0/Hisoft_C_%28Hisoft%29_Manual.pdf 
+
+There are two disc images, one is a .DSK which can be used on an Einstein with a Gotek, the other is a .MFI which can be used in MAME and is editable.
+
+# SpriteDesigner.dsk
+
+Run "S.COM" to load the designer.
 
 Run "ED S.C" to view the source code.
 
-Run HC S.C to build the designer. Note that this compiles fine on an Einstein but not in MAME - I need to change the disc type to allow this.
+Run "HC S.C" to build the designer. Only works on a physical machine.
 
+# SpriteDesigner.mfi
 
-The Hisoft C manual is available here https://www.cpcwiki.eu/imgs/a/a0/Hisoft_C_%28Hisoft%29_Manual.pdf 
+Load up in MAME. Use the attached batch file Launch.bat (editing locations as required).
 
+Run "S.COM" to load the designer.
+
+Run "ED S.C" to view the source code.
+
+Run "HC S.C" to build the designer. Only works in MAME.
 
 =======================================================
 
